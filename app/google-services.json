@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477397769183",
+    "firebase_url": "https://upgrading-dua.firebaseio.com",
+    "project_id": "upgrading-dua",
+    "storage_bucket": "upgrading-dua.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477397769183:android:23258bf1a1ae3bbe92026a",
+        "android_client_info": {
+          "package_name": "com.mahfuzjailaniibrahim.upgradingdua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477397769183-9h5bmtf5v6t7feigu89qrdiflerip339.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahfuzjailaniibrahim.upgradingdua",
+            "certificate_hash": "219e8d1d94edd799255161f345fc7398f8580488"
+          }
+        },
+        {
+          "client_id": "477397769183-tef0tlt8vdn4q0ha2a1m6o3t42btnmrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBttXxN1vAlnGk0kw752ithQ5ijOTW0qfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477397769183-tef0tlt8vdn4q0ha2a1m6o3t42btnmrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
